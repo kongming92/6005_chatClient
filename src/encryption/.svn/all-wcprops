@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/6.005/fa11/!svn/ver/28369/groups/guichat/cliu2014-evanryan-jchan927-samuelsw/src/encryption
+END
+RSA.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/6.005/fa11/!svn/ver/27165/groups/guichat/cliu2014-evanryan-jchan927-samuelsw/src/encryption/RSA.java
+END
+EstablishServerHandshake.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/6.005/fa11/!svn/ver/28369/groups/guichat/cliu2014-evanryan-jchan927-samuelsw/src/encryption/EstablishServerHandshake.java
+END
+StreamPair.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/6.005/fa11/!svn/ver/25047/groups/guichat/cliu2014-evanryan-jchan927-samuelsw/src/encryption/StreamPair.java
+END
+KeyPair.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/6.005/fa11/!svn/ver/25047/groups/guichat/cliu2014-evanryan-jchan927-samuelsw/src/encryption/KeyPair.java
+END
+EstablishClientHandshake.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/6.005/fa11/!svn/ver/28369/groups/guichat/cliu2014-evanryan-jchan927-samuelsw/src/encryption/EstablishClientHandshake.java
+END
+Test.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/6.005/fa11/!svn/ver/27165/groups/guichat/cliu2014-evanryan-jchan927-samuelsw/src/encryption/Test.java
+END
